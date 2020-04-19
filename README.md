@@ -13,7 +13,7 @@ Usage of InstaShell for attacking targets without prior mutual consent is illega
 - Multi-thread (400 pass/min, 20 threads)
 - Save/Resume sessions
 - Anonymous attack through TOR
-- Check valid usernames
+- Check valid G.malik39
 - Default password list (best +39k 8 letters)
 - Check and Install all dependencies
 
